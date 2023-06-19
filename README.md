@@ -1,4 +1,4 @@
-## Enhanced Block Entities
+## Enhanced Block Entities 1.20.1 Github Build
 
 EBE is a **100% client side** Minecraft mod for the **[Fabric](https://fabricmc.net/use/)** mod loader which aims to increase the performance of block entity rendering, as well as offer customizability via resource packs. <br/><br/>
 **How does it work?** EBE Makes some block entities use baked block models rather than laggy entity models. <br/><br/>
